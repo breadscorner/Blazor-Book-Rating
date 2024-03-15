@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/brettgill/Documents/brett-projects/book-rating/obj/Debug/net8.0/scopedcss/projectbundle/book-rating.bundle.scp.css",
+      "PackagePath": "staticwebassets/book-rating.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/brettgill/Documents/brett-projects/book-rating/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/brettgill/Documents/brett-projects/book-rating/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/brettgill/Documents/brett-projects/book-rating/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/brettgill/Documents/brett-projects/book-rating/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.book-rating.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.book-rating.props",
+      "PackagePath": "build\\book-rating.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.book-rating.props",
+      "PackagePath": "buildMultiTargeting\\book-rating.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.book-rating.props",
+      "PackagePath": "buildTransitive\\book-rating.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
