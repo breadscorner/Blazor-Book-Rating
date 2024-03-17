@@ -27,3 +27,4 @@
 /Users/brettgill/Documents/brett-projects/book-rating/obj/Debug/net8.0/book-rating.pdb
 /Users/brettgill/Documents/brett-projects/book-rating/obj/Debug/net8.0/book-rating.genruntimeconfig.cache
 /Users/brettgill/Documents/brett-projects/book-rating/obj/Debug/net8.0/ref/book-rating.dll
+/Users/brettgill/Documents/brett-projects/book-rating/obj/Debug/net8.0/book-rating.sourcelink.json
